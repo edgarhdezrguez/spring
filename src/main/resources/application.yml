@@ -1,0 +1,27 @@
+spring:
+  mvc:
+    dispatch-trace-request: false
+    dispatch-options-request: true
+  thymeleaf:
+    cache: true
+    check-template: true
+    check-template-location: true
+    content-type: text/html; charset=utf-8
+    enabled: true
+    encoding: UTF-8
+    mode: HTML5
+    prefix: classpath:/templates/
+    suffix: .html   
+  datasource:
+    url: jdbc:mysql://localhost:3306/mydb
+    username: root
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+      naming:
+        strategy: org.hibernate.cfg.ImprovedNamingStrategy
+    properties:
+      hibernate:
+        dialect:  org.hibernate.dialect.MySQL5Dialect
+        
