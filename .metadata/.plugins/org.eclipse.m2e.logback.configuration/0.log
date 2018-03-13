@@ -1,0 +1,31 @@
+2018-03-12 12:20:53,906 [Worker-8] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-03-12 12:29:24,350 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-03-12 12:36:16,892 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-03-12 12:39:15,150 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.udemy:backendninja:0.0.1-SNAPSHOT @ C:\Users\a644306\Desktop\backendninja\pom.xml.
+2018-03-12 12:39:21,067 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backendninja/src/main/java
+2018-03-12 12:39:21,068 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backendninja/src/main/resources
+2018-03-12 12:39:21,156 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backendninja/src/main/resources
+2018-03-12 12:39:21,158 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backendninja/src/test/java
+2018-03-12 12:39:21,550 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2018-03-12 12:39:27,155 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 12:39:27,165 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-12 12:39:27,202 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2018-03-12 12:39:27,717 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 12:39:27,718 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\a644306\Desktop\backendninja\src\test\resources
+2018-03-12 12:40:18,265 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.udemy:backendninja2:0.0.1-SNAPSHOT @ C:\Users\a644306\Desktop\backendninja\pom.xml.
+2018-03-12 12:40:19,372 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 12:40:19,375 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 12:40:19,375 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-12 12:40:19,381 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 12:40:19,381 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\a644306\Desktop\backendninja\src\test\resources
+2018-03-12 12:40:44,711 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.udemy:backendninja2:0.0.1-SNAPSHOT @ C:\Users\a644306\Desktop\backendninja\pom.xml.
+2018-03-12 12:40:46,375 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 12:40:46,377 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-12 12:40:46,395 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2018-03-12 12:40:46,540 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 12:40:46,541 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\a644306\Desktop\backendninja\src\test\resources
+2018-03-12 12:40:55,231 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 12:40:55,242 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-12 12:40:55,252 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2018-03-12 12:40:55,322 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-12 12:40:55,323 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\a644306\Desktop\backendninja\src\test\resources
