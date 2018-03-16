@@ -5,6 +5,7 @@ import java.util.List;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
+import com.udemy.backendninja.converted.CourseConverter;
 import com.udemy.backendninja.entity.Course;
 
 
@@ -18,5 +19,7 @@ public interface CourseJpaRepository extends JpaRepository<Course, Serializable>
 	public abstract List<Course> findByNameOrderByHours(String name);
 	
 	public abstract Course findByNameOrPrice(String name, int price);
+
+	public abstract Course save(CourseConverter course);
 	
 }
