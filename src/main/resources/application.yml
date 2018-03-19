@@ -13,7 +13,7 @@ spring:
     prefix: classpath:/templates/
     suffix: .html   
   datasource:
-    url: jdbc:mysql://localhost:3306/mydb
+    url: jdbc:mysql://localhost:3306/mydb?useSSL=false
     username: root
   jpa:
     show-sql: true
